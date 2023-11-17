@@ -1,0 +1,24 @@
+.gif {
+    border: 3px solid greenyellow;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 16px;
+    background-color: #282c34;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+.gif img {
+    object-fit: contain;
+}
+a{
+    color: lightblue;
+}
+
+i {
+    color: white;
+    font-size: 20px;
+}
